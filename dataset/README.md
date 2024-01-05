@@ -121,6 +121,29 @@ O dataset é separado por tabulação (`\t`) e contém os seguintes atributos:
 Este dataset é destinado a ser usado no repositório. Para mais informações sobre como usar este dataset no contexto desse projeto, consulte a documentação no [crimes_stance](https://github.com/LABPAAD/crimes_stance.git).
 
 <!-- 2022 -->
+### Comentários do ano de 2022 (comentarios_2022.csv):
+
+#### Descrição
+
+Este dataset contém **60.454 comentários** coletados de vídeos durante o ano de **2022**.
+
+#### Atributos
+
+O dataset é separado por tabulação (`\t`) e contém os seguintes atributos:
+
+1. **id_comentario**: Identificador único para cada comentário no dataset.
+2. **comentario**: O texto do comentário coletado.
+3. **timestamp**: A data e hora em que o comentário foi postado, no formato ISO 8601.
+4. **canal**: O canal do YouTube de onde o comentário foi coletado.
+5. **curtidas**: O número de curtidas que o comentário recebeu.
+6. **id_video**: O identificador do vídeo do qual o comentário foi coletado.
+7. **id_comentario_pai**: O identificador do comentário pai, se o comentário for uma resposta a outro comentário.
+8. **data_postagem**: A data e hora em que o comentário foi postado, no formato local.
+
+#### Uso
+
+Este dataset é destinado a ser usado no repositório. Para mais informações sobre como usar este dataset no contexto desse projeto, consulte a documentação no [crimes_stance](https://github.com/LABPAAD/crimes_stance.git).
+
 ### Comentários do ano de 2022 no Nordeste do Brasil (comentarios_2022_nordeste.csv):
 
 #### Descrição
