@@ -14,7 +14,7 @@ Os métodos de aprendizado de máquina utilizados são:
 
 Para predizer a categoria de crime em uma região alvo $a$, desconsiderando essa região nos valores a serem preditos $y$ e na matriz de atributos $X$ para fins de avaliação do modelo.
 Nesse sentido, adotamos a metodologia _leave out one_ que consiste em predizer o total de crimes para uma região utilizando dados das outras regiões.
-[Mais detalhes](TCC_3___Saul_Rocha.pdf)
+[Mais detalhes](https://github.com/LABPAAD/crimes_stance/blob/main/TCC_3___Saul_Rocha.pdf)
 
 ## Execução dos modelos
 
