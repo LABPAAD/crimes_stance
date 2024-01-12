@@ -53,5 +53,5 @@ Salva as métricas em arquivos CSV.
 
 10. Observações
 - Certifique-se de ter o ambiente apropriado configurado com as bibliotecas necessárias.
-- Certifique-se de que os conjuntos de dados "POIs.csv" e "dataset_soma_ocorr_2022.csv" estejam disponíveis no mesmo diretório ou no Google Drive conforme esperado (podem ser encontrados em [repositorio](https://github.com/LABPAAD/frequencia_crimesEPOIs).
+- Certifique-se de que os conjuntos de dados "POIs.csv" e "dataset_soma_ocorr_2022.csv" estejam disponíveis no mesmo diretório ou no Google Drive conforme esperado (podem ser encontrados em [repositorio](https://github.com/LABPAAD/crimes_prediction/tree/main/dataset).
 - Execute o código em um ambiente Python, como Jupyter Notebook ou Google Colab.
